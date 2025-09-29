@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sqlite-employees": {
+      "command": "python",
+      "args": ["C:\\Users\\drewm\\OneDrive\\Desktop\\MSIS Core\\AIDD\\In-class-assignments\\Curosr-Demo-9-26\\mcp_sqlite_server.py"],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\drewm\\OneDrive\\Desktop\\MSIS Core\\AIDD\\In-class-assignments\\Curosr-Demo-9-26"
+      }
+    }
+  }
+}

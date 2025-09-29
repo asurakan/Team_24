@@ -1,0 +1,13 @@
+# MCP Server Dependencies
+# Note: The server works without MCP package installed (uses fallback implementation)
+# To use with full MCP support, install: pip install mcp
+
+# Core dependencies (always required)
+# sqlite3 is built into Python
+# asyncio is built into Python  
+# pathlib is built into Python
+# json is built into Python
+# typing is built into Python
+
+# Optional: For full MCP support
+# mcp>=1.0.0
